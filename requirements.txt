@@ -1,0 +1,9 @@
+discord.py
+mss
+pyautogui
+pynput
+requests
+pyperclip
+pillow
+numpy
+psutil
